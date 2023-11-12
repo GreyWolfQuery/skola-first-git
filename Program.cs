@@ -1,5 +1,5 @@
 ﻿Console.Write("Zadej hausnumero:");
-string input = Console.ReadLine();
+string input = Console.ReadLine() ?? string.Empty;
 int len = input.Length, i;
 
 int[] digits = new int[10] { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
