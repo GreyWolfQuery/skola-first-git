@@ -1,4 +1,4 @@
-# Můj ~~první~~ několikátý README soubor!
+# Můj ~~první~~ README soubor!
 Ahoj Světe!
 
 # Co program v Program.cs dělá?
